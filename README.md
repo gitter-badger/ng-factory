@@ -1,4 +1,5 @@
 # ng-factory
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/angular-widgets/ng-factory?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 An **upgradable** development workflow library built on top of Gulp and focused on AngularJS components and applications.
 
